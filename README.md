@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Costas 
+- 👀 I’m interested in life and development of new technologies
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me costaszafolias@gmail.com
